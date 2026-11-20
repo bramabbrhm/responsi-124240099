@@ -1,8 +1,12 @@
-# latres_harry_potter
+# Responsi Praktikum Pemrograman Mobile SI-G
+Abraham Valentino Tarigan
+124240099
 
 A new Flutter project.
 
 ## Getting Started
+Username : abraham
+Password : NIM saya
 
 This project is a starting point for a Flutter application.
 
